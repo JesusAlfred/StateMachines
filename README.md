@@ -1,7 +1,7 @@
 # StateMachines
 
 ```mermaid
-stateDiagram-v2
+stateDiagram-v2;
 0-->1;
 1-down->2: d;
 2-up->1: ε;
