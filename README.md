@@ -1,6 +1,7 @@
 # StateMachines
 
 ```mermaid
+graph TD;
 stateDiagram-v2;
 0-->1;
 1-down->2: d;
