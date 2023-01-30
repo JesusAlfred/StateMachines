@@ -1,9 +1,9 @@
 # StateMachines
 
 ```mermaid
-graph TD;
-stateDiagram-v2;
-0-->1;
+graph TD
+stateDiagram-v2
+0-->1
 1-->2: d
 2-->1: ε
 2-->3: •
